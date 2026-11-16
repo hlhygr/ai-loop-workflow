@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Based Review"
+  short_description: "独立核对证据与直接影响，给出确定问题、最小建议和验证缺口"
+  default_prompt: "使用 $evidence-based-review，对指定对象进行只读证据审查。"

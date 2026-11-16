@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Loop 工作流调度"
+  short_description: "按目标选择必要能力、恢复状态与验证方式，完成授权范围内的交付"
+  default_prompt: "使用 $dispatch-ai-loop-workflow，以最小必要流程完成当前目标。"

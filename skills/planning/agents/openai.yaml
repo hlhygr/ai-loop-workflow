@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Loop Planning"
+  short_description: "保存复杂任务的当前状态与证据，显式选择计划并按需恢复上下文"
+  default_prompt: "使用 $planning，保存或恢复当前任务的必要状态。"
